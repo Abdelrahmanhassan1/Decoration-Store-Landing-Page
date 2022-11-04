@@ -1,5 +1,6 @@
 # Decoration Store Landing Page
-Some Animations made over a website page to be scrollable and has a navigator.
+
+A Landing Page for a decoration store to explain what services it offer.
 
 ![GIF](https://github.com/Abdelrahmanhassan1/My-Assets/blob/master/Fullpage-Animation.gif)
 
