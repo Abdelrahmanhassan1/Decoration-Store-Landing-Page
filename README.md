@@ -1,4 +1,4 @@
-# Fullpage-Animation-With-Javascript
+# Decoration Store Landing Page
 Some Animations made over a website page to be scrollable and has a navigator.
 
 ![GIF](https://github.com/Abdelrahmanhassan1/My-Assets/blob/master/Fullpage-Animation.gif)
